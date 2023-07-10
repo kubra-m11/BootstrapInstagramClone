@@ -1,2 +1,2 @@
-# BootstrapInstagramColon
-BootstrapInstagramColon
+# BootstrapInstagramClone
+BootstrapInstagramClone
